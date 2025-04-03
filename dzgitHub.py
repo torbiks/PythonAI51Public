@@ -10,3 +10,4 @@ def overkill():
                 memory = line
     return memory
 
+print(overkill())
